@@ -1,0 +1,39 @@
+.layoutContainer {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  background: #fafafa;
+  color: #111827;
+}
+
+.mainContent {
+  margin-left: 260px;
+  flex: 1;
+  min-height: 100vh;
+  overflow-y: auto;
+  padding: 32px 36px;
+  background: #fafafa;
+}
+
+.pageWrapper {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+  min-height: 100vh;
+  padding-bottom: 32px;
+}
+
+/* Responsive */
+@media (max-width: 980px) {
+  .mainContent {
+    margin-left: 240px;
+    padding: 28px 24px;
+  }
+}
+
+@media (max-width: 720px) {
+  .mainContent {
+    margin-left: 60px;
+    padding: 20px 16px;
+  }
+}

@@ -1,0 +1,4 @@
+categoryname,name,description,price,imageUrl
+"Burgers","Cheese Burger","Delicious beef burger with cheese","199","https://example.com/cheese-burger.jpg"
+"Beverages","Lemonade","Freshly squeezed lemonade","79","https://example.com/lemonade.jpg"
+"Desserts","Chocolate Cake","Rich chocolate cake slice","149","https://example.com/chocolate-cake.jpg"
