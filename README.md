@@ -265,6 +265,10 @@ cd ../frontend
 npm install
 npm run dev
 ```
+## env
+create a .env file and add 
+VITE_API_URL=http://localhost:5000/ 
+
 
 Open the frontend URL shown by Vite, typically `http://localhost:5173`.
 
