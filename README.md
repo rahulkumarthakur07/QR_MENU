@@ -284,4 +284,3 @@ Open the frontend URL shown by Vite, typically `http://localhost:5173`.
 
 ---
 
-If you want, I can also add a sample `.env.example` file and a more detailed `frontend/README.md` for the admin UI.
